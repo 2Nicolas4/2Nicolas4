@@ -2,10 +2,9 @@
 <!--
 **2Nicolas4/2Nicolas4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--  🔭 I’m currently working on ...🔭 Actualmente esoty trabajando 
-Actualmente soy estudiante 
+Here are some ideas to get you started: 
+-# Actualmente estoy trabajando...
+-Actualmente soy estudiante 
 - 🌱 I’m currently learning ...
 Ingenieria en sistemas 
 - 👯 I’m looking to collaborate on ...
