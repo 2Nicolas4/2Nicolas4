@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+-  🔭 I’m currently working on ...🔭 Actualmente esoty trabajando 
 Actualmente soy estudiante 
 - 🌱 I’m currently learning ...
 Ingenieria en sistemas 
